@@ -26,7 +26,7 @@
 
   - [🤖 Embodied Artificial Intelligence](#-embodied-artificial-intelligence)
   - [🎮 Game Playing](#-game-playing)
-  - [🗺️ Economy & Society](#-economy-&-society)
+  - [🗺 Economy and Society](#-economy-and-society)
   - [🔗 Citation](#-citation)
   - [🤝 Contact](#-contact)
   
@@ -36,7 +36,7 @@
 ## 🎮 Game Playing
 - [2024/08/07] Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks. [[paper](https://arxiv.org/pdf/2408.03615.pdf)] [[code](https://cybertronagent.github.io/Optimus-1.github.io/)]
 
-## 🗺️ Economy & Society
+## 🗺 Economy and Society
 - [2024/08/07] Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks. [[paper](https://arxiv.org/pdf/2408.03615.pdf)] [[code](https://cybertronagent.github.io/Optimus-1.github.io/)]
 
 ## 🔗 Citation
