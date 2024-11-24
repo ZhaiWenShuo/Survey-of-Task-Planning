@@ -23,7 +23,7 @@
 <div align=center><img src="Survey_timeline.png" width="100%" /></div>
 
 ## 📜 Contents
-- [**A Survey of Task Planning with Large Language Models**](#a-survey-of-task-planning-with-large-language-models) 
+
   - [🤖 Embodied Artificial Intelligence](#-embodied-artificial-intelligence)
   - [🎮 Game Playing](#-game-playing)
   - [🗺️ Economy and Society](#-economy-and-society)
