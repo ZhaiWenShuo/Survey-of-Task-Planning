@@ -26,7 +26,7 @@
 
   - [🤖 Embodied Artificial Intelligence](#-embodied-artificial-intelligence)
   - [🎮 Game Playing](#-game-playing)
-  - [🗺️ Economy & Society](#-Economy-&-Society)
+  - [🗺️ Economy & Society](#-economy-&-society)
   - [🔗 Citation](#-citation)
   - [🤝 Contact](#-contact)
   
