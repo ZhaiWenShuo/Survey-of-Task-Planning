@@ -34,11 +34,10 @@
 - [2024/08/07] Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks. [[paper](https://arxiv.org/pdf/2408.03615.pdf)] [[code](https://cybertronagent.github.io/Optimus-1.github.io/)]
 
 ## 🎮 Game Playing
-a
-<br><br><br><br><br><br><br>
-b
+- [2024/08/07] Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks. [[paper](https://arxiv.org/pdf/2408.03615.pdf)] [[code](https://cybertronagent.github.io/Optimus-1.github.io/)]
+
 ## 🗺️ Economy and Society
-s
+- [2024/08/07] Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks. [[paper](https://arxiv.org/pdf/2408.03615.pdf)] [[code](https://cybertronagent.github.io/Optimus-1.github.io/)]
 
 ## Citation
 If you find this repository useful, please cite our paper:
