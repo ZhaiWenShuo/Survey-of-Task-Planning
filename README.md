@@ -31,8 +31,11 @@
   - [🤝 Contact](#-contact)
   
 ## 🤖 Embodied Artificial Intelligence
-- WikiSQL [[paper](https://arxiv.org/pdf/1709.00103.pdf)] [[code](https://github.com/salesforce/WikiSQL)] [[dataset](https://github.com/salesforce/WikiSQL)]
-  - 2017/09, Salesforce proposes a large Text-to-SQL dataset WikiSQL, the data comes from Wikipedia, which belongs to a single domain, contains 80,654 natural language questions, and 77,840 SQL statements. The form of SQL statements is relatively simple, and does not include sorting, grouping, and subqueries and other complex operations.
+- StarCraft II
+  - PySC2 [[code](https://github.com/BurnySc2/python-sc2)] - A StarCraft II API Client for Python 3
+  - LLM-PySC2 [[code](https://github.com/NKAI-Decision-Team/LLM-PySC2)] - A LLM StarCraft II Learning Environment
+  - Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach [[paper](https://arxiv.org/abs/2312.11865)] [[code](https://github.com/histmeisah/Large-Language-Models-play-StarCraftII)]
+  - SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models [[paper](https://arxiv.org/abs/2401.17749)] [[code](https://github.com/ramsayxiaoshao/SwarmBrain)]
 
 ## 🎮 Game Playing
 - StarCraft II
