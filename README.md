@@ -36,8 +36,8 @@
 
 ## 🎮 Game Playing
 - StarCraft II
-  - PySC2 [[code](https://github.com/BurnySc2/python-sc2)]
-  - LLM-PySC2 [[code](https://github.com/NKAI-Decision-Team/LLM-PySC2)] - LLM StarCraft II Learning Environment
+  - PySC2 [[code](https://github.com/BurnySc2/python-sc2)] - A StarCraft II API Client for Python 3
+  - LLM-PySC2 [[code](https://github.com/NKAI-Decision-Team/LLM-PySC2)] - A LLM StarCraft II Learning Environment
   - Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach [[paper](https://arxiv.org/abs/2312.11865)] [[code](https://github.com/histmeisah/Large-Language-Models-play-StarCraftII)]
   - SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models [[paper](https://arxiv.org/abs/2401.17749)] [[code](https://github.com/ramsayxiaoshao/SwarmBrain)]
 
