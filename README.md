@@ -49,7 +49,7 @@
 
 <br>
 <div align="center">
-<img src="https://github.com/joonspk-research/generative_agents/blob/main/cover.png" width="800px">
+<img src="https://github.com/joonspk-research/generative_agents/blob/main/cover.png" width="300px">
 </div>
 <br>
 
