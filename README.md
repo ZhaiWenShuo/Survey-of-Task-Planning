@@ -63,7 +63,6 @@
   - LLM-PySC2 [[code](https://github.com/NKAI-Decision-Team/LLM-PySC2)] - A LLM StarCraft II Learning Environment
   - Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach [[paper](https://arxiv.org/abs/2312.11865)] [[code](https://github.com/histmeisah/Large-Language-Models-play-StarCraftII)]
   - SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models [[paper](https://arxiv.org/abs/2401.17749)] [[code](https://github.com/ramsayxiaoshao/SwarmBrain)]
-
 <p align="center">
   <img src="https://github.com/NKAI-Decision-Team/LLM-PySC2/blob/master/docs/figures/llm_smac_demo1.gif" width="225">
   <img src="https://github.com/NKAI-Decision-Team/LLM-PySC2/blob/master/docs/figures/llm_smac_demo3.gif" width="225">
@@ -97,14 +96,28 @@
 ## 🗺 Economy and Society
 - Generative Agents: interactive simulacra of human behavior [[paper](https://arxiv.org/abs/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)]
   - This work describes an architecture that extends a large language model to store a complete record of the agent's experiences using natural language, synthesize those memories over time into higher-level reflections, and retrieve them dynamically to plan behavior.
-
 <br>
 <div align="center">
 <img src="https://github.com/joonspk-research/generative_agents/blob/main/cover.png" width="600px">
 </div>
 <br>
 
-- 
+- ChatDev: a virtual software company [[paper](https://arxiv.org/abs/2307.07924)] [[code](https://github.com/OpenBMB/ChatDev)]
+  - ChatDev stands as a virtual software company that operates through various intelligent agents holding different roles.
+<br>
+<div align="center">
+<img src="https://github.com/OpenBMB/ChatDev/blob/main/misc/company.png" width="600px">
+</div>
+<br> 
+
+- WarAgent [[paper](https://arxiv.org/abs/2311.17227)] [[code](https://github.com/agiresearch/WarAgent)]
+  - An LLM-powered multi-agent AI system, to simulate the participating countries, their decisions, and the consequences, in historical international conflicts, including the World War I, the World War II, and the Warring States Period in Ancient China.
+<br>
+<div align="center">
+<img src="https://github.com/agiresearch/WarAgent/blob/main/fig/WWI.png" width="600px">
+</div>
+<br> 
+
 ## 🔗 Citation
 If you find this repository useful, please cite our paper:
 
