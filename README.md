@@ -23,11 +23,14 @@
   - [🤝 Contact](#-contact)
   
 ## 🤖 Embodied Artificial Intelligence
-- StarCraft II
-  - PySC2 [[code](https://github.com/BurnySc2/python-sc2)] - A StarCraft II API Client for Python 3
-  - LLM-PySC2 [[code](https://github.com/NKAI-Decision-Team/LLM-PySC2)] - A LLM StarCraft II Learning Environment
-  - Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach [[paper](https://arxiv.org/abs/2312.11865)] [[code](https://github.com/histmeisah/Large-Language-Models-play-StarCraftII)]
-  - SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models [[paper](https://arxiv.org/abs/2401.17749)] [[code](https://github.com/ramsayxiaoshao/SwarmBrain)]
+- VirtualHome: A Multi-Agent Household Simulator [[paper](https://arxiv.org/abs/1806.07011)] [[blog](http://virtual-home.org/)] [[code](https://github.com/xavierpuigf/virtualhome)]
+  - VirtualHome is a multi-agent platform to simulate activities in a household. Agents are represented as humanoid avatars, which can interact with the environment through high-level instructions. You can use VirtualHome to render videos of human activities, or train agents to perform complex tasks. VirtualHome also includes a Knowledge Base, providing instructions to perform a large set of activities.
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/xavierpuigf/virtualhome/tree/master/assets/vh_intro.gif">
+</p>
+</div>
+
 
 ## 🎮 Game Playing
 - StarCraft II
@@ -44,7 +47,7 @@
 
 
 ## 🗺 Economy and Society
-- Generative Agents :interactive simulacra of human behavior [[paper](https://arxiv.org/abs/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)]
+- Generative Agents: interactive simulacra of human behavior [[paper](https://arxiv.org/abs/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)]
   - This work describes an architecture that extends a large language model to store a complete record of the agent's experiences using natural language, synthesize those memories over time into higher-level reflections, and retrieve them dynamically to plan behavior.
 
 <br>
