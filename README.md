@@ -36,6 +36,13 @@
   - Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach [[paper](https://arxiv.org/abs/2312.11865)] [[code](https://github.com/histmeisah/Large-Language-Models-play-StarCraftII)]
   - SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models [[paper](https://arxiv.org/abs/2401.17749)] [[code](https://github.com/ramsayxiaoshao/SwarmBrain)]
 
+<p align="center">
+  <img src="https://github.com/NKAI-Decision-Team/LLM-PySC2/blob/master/docs/figures/llm_smac_demo1.gif" width="225">
+  <img src="https://github.com/NKAI-Decision-Team/LLM-PySC2/blob/master/docs/figures/llm_smac_demo3.gif" width="225">
+  <img src="https://github.com/NKAI-Decision-Team/LLM-PySC2/blob/master/docs/figures/figures/llm_smac_demo2.gif" width="225"><br/>
+</p>
+
+
 ## 🗺 Economy and Society
 - Generative Agents :interactive simulacra of human behavior [[paper](https://arxiv.org/abs/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)]
   - This work describes an architecture that extends a large language model to store a complete record of the agent's experiences using natural language, synthesize those memories over time into higher-level reflections, and retrieve them dynamically to plan behavior.
