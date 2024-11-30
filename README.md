@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://github.com/NKAI-Decision-Team/LLM-PySC2/blob/master/docs/figures/llm_smac_demo1.gif" width="225">
   <img src="https://github.com/NKAI-Decision-Team/LLM-PySC2/blob/master/docs/figures/llm_smac_demo3.gif" width="225">
-  <img src="https://github.com/NKAI-Decision-Team/LLM-PySC2/blob/master/docs/figures/figures/llm_smac_demo2.gif" width="225"><br/>
+  <img src="https://github.com/NKAI-Decision-Team/LLM-PySC2/blob/master/docs/figures/llm_smac_demo2.gif" width="225"><br/>
 </p>
 
 
