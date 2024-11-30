@@ -27,7 +27,7 @@
   - VirtualHome is a multi-agent platform to simulate activities in a household. Agents are represented as humanoid avatars, which can interact with the environment through high-level instructions. You can use VirtualHome to render videos of human activities, or train agents to perform complex tasks. VirtualHome also includes a Knowledge Base, providing instructions to perform a large set of activities.
 <br>
 <div align="center">
-<img src="https://github.com/xavierpuigf/virtualhome/tree/master/assets/vh_intro.gif" width="600px">
+<img src="https://github.com/xavierpuigf/virtualhome/tree/master/assets/vh_intro.gif">
 </div>
 <br>
 
