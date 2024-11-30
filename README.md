@@ -25,11 +25,11 @@
 ## 🤖 Embodied Artificial Intelligence
 - VirtualHome: A Multi-Agent Household Simulator [[paper](https://arxiv.org/abs/1806.07011)] [[blog](http://virtual-home.org/)] [[code](https://github.com/xavierpuigf/virtualhome)]
   - VirtualHome is a multi-agent platform to simulate activities in a household. Agents are represented as humanoid avatars, which can interact with the environment through high-level instructions. You can use VirtualHome to render videos of human activities, or train agents to perform complex tasks. VirtualHome also includes a Knowledge Base, providing instructions to perform a large set of activities.
-
-<p align="center">
-  <img width="460" height="300" src="https://github.com/xavierpuigf/virtualhome/tree/master/assets/vh_intro.gif">
-</p>
+<br>
+<div align="center">
+<img src="https://github.com/xavierpuigf/virtualhome/tree/master/assets/vh_intro.gif" width="600px">
 </div>
+<br>
 
 
 ## 🎮 Game Playing
