@@ -11,16 +11,8 @@
 
 🏃 **Coming soon**: More related works.
 
-<div align=center><img src="framework.png" width="80%" /></div>
-
-<div align="center">
-
-</div>
-
 ## 🌟 News
 ✨ [2024/11/24] Creation of this repository to maintain the list of resources on Task Planning based on LLMs. More resoures are coming soon!
-
-<div align=center><img src="Survey_timeline.png" width="100%" /></div>
 
 ## 📜 Contents
 
@@ -50,7 +42,7 @@
 
 <br>
 <div align="center">
-<img src="figures/smallville.png" width="800px">
+<img src="https://github.com/joonspk-research/generative_agents/blob/main/cover.png" width="800px">
 </div>
 <br>
 
