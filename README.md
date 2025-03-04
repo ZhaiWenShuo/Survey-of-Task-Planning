@@ -26,7 +26,7 @@
 - VirtualHome: A Multi-Agent Household Simulator [[paper](https://arxiv.org/abs/1806.07011)] [[blog](http://virtual-home.org/)] [[code](https://github.com/xavierpuigf/virtualhome)]
   - VirtualHome is a multi-agent platform to simulate activities in a household. Agents are represented as humanoid avatars, which can interact with the environment through high-level instructions. You can use VirtualHome to render videos of human activities, or train agents to perform complex tasks. VirtualHome also includes a Knowledge Base, providing instructions to perform a large set of activities.
   - [2023 ICLR'24] Tree-Planner: Efficient Close-loop Task Planning with Large Language Models [[paper](https://arxiv.org/abs/2310.08582)]
-  - [2023 NeurIPS] Large Language Models as Commonsense Knowledge for Large-Scale Task Planning [[paper]([[paper](https://arxiv.org/abs/2305.14078)])]
+  - [2023 NeurIPS] Large Language Models as Commonsense Knowledge for Large-Scale Task Planning [[paper](https://arxiv.org/abs/2305.14078)]
 <br>
 <div align="center">
 <img src="figures/vh_intro.gif" width="600px">
