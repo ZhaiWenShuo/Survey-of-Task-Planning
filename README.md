@@ -19,7 +19,7 @@
   - [🤖 Embodied Artificial Intelligence](#-embodied-artificial-intelligence)
   - [🎮 Game Playing](#-game-playing)
   - [🗺 Economy and Society](#-economy-and-society)
-  - [🖇️ Others](#-others)
+  - [🖇️ Other Applications](#-other-applications)
   - [🔗 Citation](#-citation)
   - [🤝 Contact](#-contact)
   
@@ -119,7 +119,7 @@
 </div>
 <br> 
 
-## 🖇️ Others
+## 🖇️ Other Applications
 
 - Tool Learning
   - Tool Learning with Large Language Models: A Survey [[paper](https://arxiv.org/abs/2405.17935)]
