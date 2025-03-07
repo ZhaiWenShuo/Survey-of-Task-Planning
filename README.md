@@ -19,7 +19,7 @@
   - [🤖 Embodied Artificial Intelligence](#-embodied-artificial-intelligence)
   - [🎮 Game Playing](#-game-playing)
   - [🗺 Economy and Society](#-economy-and-society)
-  - [🖇️ Others](#-Others)
+  - [🖇️ Others](#-others)
   - [🔗 Citation](#-citation)
   - [🤝 Contact](#-contact)
   
