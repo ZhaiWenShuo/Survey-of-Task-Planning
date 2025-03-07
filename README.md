@@ -127,7 +127,6 @@
       - **Decomposing Complex Problems**: How to accurately break down complex user problems into multiple sub-problems and determine the dependencies between these sub-problems.
       - **Tool Selection and Invocation**: How to select the most appropriate tools from a wide range of options and invoke them correctly.
       - **Utilizing Real-time Feedback**: How to use real-time feedback from tools to adjust task planning and improve the efficiency and accuracy of problem-solving.
-      Task planning is a key stage in tool learning, requiring large language models to have strong logical reasoning capabilities and accurate understanding of user intentions. The methods and challenges mentioned in the article provide important references for future research.
 <br>
 <div align="center">
 <img src="figures/tool.png" width="600px">
@@ -136,9 +135,11 @@
 
 - GUI Automation
   - Large Language Model-Brained GUI Agents: A Survey [[paper](https://arxiv.org/abs/2411.18279)]
-    - 
   - GUI Agents with Foundation Models: A Comprehensive Survey [[paper](https://arxiv.org/abs/2411.04890)]
-    - 
+  
+  LLMs can parse natural language instructions from users into a series of executable steps. Through multi-step reasoning and task decomposition, they can gradually complete complex processes. Unlike traditional scripting methods, LLMs - driven GUI agents can respond to real-time feedback and dynamically adjust their strategies. When the interface state changes or an error message appears, the agent can try new paths and solutions instead of relying on a fixed script process.
+
+Take office software as an example. LLMs can help users quickly complete complex tasks. For instance, they can automatically extract key information from a document according to user instructions, integrate this information into a new document, and generate corresponding charts and reports. This kind of automated operation can greatly improve office efficiency and reduce the cumbersome steps of manual operation. In web operations, LLMs can automatically locate specific elements on a webpage, such as search bars and submit buttons, and perform corresponding actions. For example, users can use natural language instructions to let the LLMs automatically search for product information and add it to the shopping cart. In mobile applications, LLMs can simulate human clicks and swipe gestures to operate various smartphone applications. For example, users can use voice commands to let LLMs automatically open an application and complete a series of operations.
 <br>
 <div align="center">
 <img src="figures/gui.png" width="600px">
