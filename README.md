@@ -19,6 +19,7 @@
   - [🤖 Embodied Artificial Intelligence](#-embodied-artificial-intelligence)
   - [🎮 Game Playing](#-game-playing)
   - [🗺 Economy and Society](#-economy-and-society)
+  - [🖇️ Others](#-Others)
   - [🔗 Citation](#-citation)
   - [🤝 Contact](#-contact)
   
@@ -115,6 +116,24 @@
 <br>
 <div align="center">
 <img src="figures/WWI.png" width="600px">
+</div>
+<br> 
+## 🖇️ Others
+
+- Tool Learning
+  - Tool Learning with Large Language Models: A Survey [[paper](https://arxiv.org/abs/2405.17935)]
+<br>
+<div align="center">
+<img src="figures/tool.png" width="600px">
+</div>
+<br> 
+
+- GUI Automation
+  - Large Language Model-Brained GUI Agents: A Survey [[paper](https://arxiv.org/abs/2411.18279)]
+  - GUI Agents with Foundation Models: A Comprehensive Survey [[paper](https://arxiv.org/abs/2411.04890)]
+<br>
+<div align="center">
+<img src="figures/gui.png" width="600px">
 </div>
 <br> 
 
