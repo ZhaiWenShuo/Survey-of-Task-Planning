@@ -122,6 +122,11 @@
 ## 🖥 Other Apps
 - Tool Learning
   - Tool Learning with Large Language Models: A Survey [[paper](https://arxiv.org/abs/2405.17935)]
+    - Task planning is the first step in tool learning and is also a crucial one. Its main objective is to accurately understand the user's intentions and break down complex problems into several manageable sub-problems. The success or failure of this step directly affects the quality of subsequent tool selection, invocation, and response generation. The task planning methods mentioned in the article are mainly divided into two categories: tuning-free methods and tuning-based methods. The main challenges of task planning mentioned in the article include:
+      - **Decomposing Complex Problems**: How to accurately break down complex user problems into multiple sub-problems and determine the dependencies between these sub-problems.
+      - **Tool Selection and Invocation**: How to select the most appropriate tools from a wide range of options and invoke them correctly.
+      - **Utilizing Real-time Feedback**: How to use real-time feedback from tools to adjust task planning and improve the efficiency and accuracy of problem-solving.
+      Task planning is a key stage in tool learning, requiring large language models to have strong logical reasoning capabilities and accurate understanding of user intentions. The methods and challenges mentioned in the article provide important references for future research.
 <br>
 <div align="center">
 <img src="figures/tool.png" width="600px">
@@ -130,7 +135,9 @@
 
 - GUI Automation
   - Large Language Model-Brained GUI Agents: A Survey [[paper](https://arxiv.org/abs/2411.18279)]
+    - 
   - GUI Agents with Foundation Models: A Comprehensive Survey [[paper](https://arxiv.org/abs/2411.04890)]
+    - 
 <br>
 <div align="center">
 <img src="figures/gui.png" width="600px">
