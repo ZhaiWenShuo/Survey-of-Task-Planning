@@ -139,8 +139,8 @@
 
     Take office software as an example. LLMs can help users quickly complete complex tasks. For instance, they can automatically extract key information from a document according to user instructions, integrate this information into a new document, and generate corresponding charts and reports. This kind of automated operation can greatly improve office efficiency and reduce the cumbersome steps of manual operation. In web operations, LLMs can automatically locate specific elements on a webpage, such as search bars and submit buttons, and perform corresponding actions. For example, users can use natural language instructions to let the LLMs automatically search for product information and add it to the shopping cart. In mobile applications, LLMs can simulate human clicks and swipe gestures to operate various smartphone applications. For example, users can use voice commands to let LLMs automatically open an application and complete a series of operations.
 
-- Large Language Model-Brained GUI Agents: A Survey [[paper](https://arxiv.org/abs/2411.18279)]
-- GUI Agents with Foundation Models: A Comprehensive Survey [[paper](https://arxiv.org/abs/2411.04890)]
+  - Large Language Model-Brained GUI Agents: A Survey [[paper](https://arxiv.org/abs/2411.18279)]
+  - GUI Agents with Foundation Models: A Comprehensive Survey [[paper](https://arxiv.org/abs/2411.04890)]
   
 <br>
 <div align="center">
