@@ -127,7 +127,7 @@
       - **Decomposing Complex Problems**: How to accurately break down complex user problems into multiple sub-problems and determine the dependencies between these sub-problems.
       - **Tool Selection and Invocation**: How to select the most appropriate tools from a wide range of options and invoke them correctly.
       - **Utilizing Real-time Feedback**: How to use real-time feedback from tools to adjust task planning and improve the efficiency and accuracy of problem-solving.
-        Task planning is a key stage in tool learning, requiring large language models to have strong logical reasoning capabilities and accurate understanding of user intentions. The methods and challenges mentioned in the article provide important references for future research.
+      Task planning is a key stage in tool learning, requiring large language models to have strong logical reasoning capabilities and accurate understanding of user intentions. The methods and challenges mentioned in the article provide important references for future research.
 <br>
 <div align="center">
 <img src="figures/tool.png" width="600px">
