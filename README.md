@@ -12,7 +12,7 @@
 🏃 **Coming soon**: More related works.
 
 ## 🌟 News
-✨ [2024/11/24] Creation of this repository to maintain the list of resources on Task Planning based on LLMs. More resoures are coming soon!
+✨ [2025/03/05] Creation of this repository to maintain the list of resources on Task Planning based on LLMs. More resoures are coming soon!
 
 ## 📜 Contents
 
