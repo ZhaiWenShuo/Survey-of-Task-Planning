@@ -6,7 +6,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Stars](https://img.shields.io/github/stars/ZhaiWenShuo/Survey-of-Task-Planning) 
 ![Forks](https://img.shields.io/github/forks/ZhaiWenShuo/Survey-of-Task-Planning)
-![Visits Badge](https://badges.pufler.dev/visits/ZhaiWenShuo/Survey-of-Task-Planning)](https://badges.pufler.dev/visits/ZhaiWenShuo/Survey-of-Task-Planning)
+![Visits Badge](https://badges.pufler.dev/visits/ZhaiWenShuo/Survey-of-Task-Planning)
 </div>
 
 🏃 **Coming soon**: More related works.
